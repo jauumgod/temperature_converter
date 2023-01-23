@@ -1,4 +1,11 @@
 #
 <h1>TEMPERATURE CONVERTER</h1>
 <hr>
-![image](https://user-images.githubusercontent.com/69704112/214177389-23e8658d-1805-44fe-98b8-91face168eb3.png)
+
+PARTE DA CONVERSÃO
+#
+![image](https://user-images.githubusercontent.com/69704112/214177539-e559577c-80e0-488e-ba51-ab021b2a3ed6.png)
+
+
+#
+aplicação simples, mas ajuda nos estudos.
